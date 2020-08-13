@@ -14,7 +14,7 @@ El link de zoom para las ayudantías siempre será el siguiente:
 
 
 ## Ayudantía 1
-* Enunciados:
+* [Enunciados](Ay1/main.pdf) 
 
 * Pauta:
 
