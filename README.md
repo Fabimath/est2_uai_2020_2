@@ -9,17 +9,8 @@ Horario de consultas: `Por confirmar`
 # Ayudantías vía zoom
 
 El link de zoom para las ayudantías siempre será el siguiente:
-
-![zoom](zoom.png width= 10) 
-
+ 
 [Enlace reunión por zoom](https://reuna.zoom.us/my/fabimath?pwd=ME1UUHJLY2p0ZlZraW0xaENUaXcrUT09)
-
-~~~
-suma = function(a,b){
-    c = a + b
-    return(c)
-}
-~~~
 
 
 ## Ayudantía 1
